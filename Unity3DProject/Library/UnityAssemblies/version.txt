@@ -1,0 +1,13 @@
+2017.1.0p4:3.3.0.0
+StandaloneOSXIntel64
+D:/UnityPrograms/Unity 2017.1.0p4/Editor/Data/Managed/UnityEditor.dll
+D:/UnityPrograms/Unity 2017.1.0p4/Editor/Data/Managed/UnityEngine.dll
+D:/UnityPrograms/Unity 2017.1.0p4/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll
+D:/UnityPrograms/Unity 2017.1.0p4/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll
+D:/UnityPrograms/Unity 2017.1.0p4/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll
+D:/UnityPrograms/Unity 2017.1.0p4/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll
+D:/UnityPrograms/Unity 2017.1.0p4/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll
+D:/UnityPrograms/Unity 2017.1.0p4/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll
+D:/UnityPrograms/Unity 2017.1.0p4/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll
+D:/UnityPrograms/Unity 2017.1.0p4/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll
+D:/UnityPrograms/Unity 2017.1.0p4/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll
